@@ -8,6 +8,7 @@ namespace ContagiousCode.Web
 {
     public class Ajax
     {
+        // CHECK 2
         public object Data { get; set; }
         public int ItemID { get; set; }
         public object Json { get; set; }
